@@ -1,15 +1,23 @@
+body{
+    background-image: url("fractal_mesh_violet_122684_2000x2000.jpg");
+    font-family: 'Libre Baskerville', serif;
+
+}
+
 h1{
     text-align: center;
     text-decoration-line: underline;
     font-style: italic;
     font-size : 50px;
+    color:yellow;
 }
 
 .d1{
-    border-style: solid;
+    border-style: none;
     border-radius: 5px;
     width: 200px;
     margin-top: -100px;
+    background-color: deepskyblue;
 
 }
 
@@ -17,41 +25,35 @@ h1{
     border-style: none;
     border-radius: 5px;
     width: 400px;
-    margin-top:50px;
+    margin-top: 50px;
     margin-left: 150px;
-    background-color: dodgerblue;
+    background-color: deepskyblue;
 }
 
-.d3{
-    border-style: none;
-    border-radius: 5px;
-    width: 550px;
-    background-color: red;
-    margin-left: 700px;
-    margin-top: -200px;
-}
+
 .d4{
     border-style: none;
     border-radius: 5px;
     width:300px;
-    background-color: dodgerblue;
+    background-color: deepskyblue;
     margin-left: 250px;
+    margin-top: 100px;
 }
 
 .d5{
     border-style: none;
     border-radius: 5px;
     width:400px;
-    background-color: red;
+    background-color: deepskyblue;
     margin-left: 700px;
-    margin-top: -100px;
+    margin-top: -120px;
 }
 
 .d6{
     border-style: none;
     border-radius: 5px;
     width:300px;
-    background-color: dodgerblue;
+    background-color: deepskyblue;
     margin-left: 250px;
 }
 
@@ -59,8 +61,34 @@ h1{
     border-style: none;
     border-radius: 5px;
     width:300px;
-    background-color: red;
+    background-color: deepskyblue;
     margin-left: 700px;
     margin-top: -100px;
 
+}
+
+th, td {
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    background-color: deepskyblue;
+    border-collapse: collapse;
+}
+
+.d7{
+    margin-top: 50px;
+
+}
+
+.d8{
+    color:yellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+table{
+    background-color: deepskyblue ;
+    width: 250px;
+    margin-left: 150px;
 }
