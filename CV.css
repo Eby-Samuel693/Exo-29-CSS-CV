@@ -1,42 +1,66 @@
-body{
-    background-color: cadetblue;
-}
 h1{
     text-align: center;
+    text-decoration-line: underline;
+    font-style: italic;
+    font-size : 50px;
 }
 
-#a1{
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 1px;
-    width: 190px;
-    margin-top: -50px;
-}
-
-.contact{
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 10px;
-    width: 250px;
-    margin-left: 500px;
-}
 .d1{
-    background-color: aqua;
+    border-style: solid;
+    border-radius: 5px;
+    width: 200px;
+    margin-top: -100px;
+
 }
 
 .d2{
+    border-style: none;
+    border-radius: 5px;
+    width: 400px;
+    margin-top:50px;
+    margin-left: 150px;
     background-color: dodgerblue;
 }
 
 .d3{
-    background-color: aquamarine;
+    border-style: none;
+    border-radius: 5px;
+    width: 550px;
+    background-color: red;
+    margin-left: 700px;
+    margin-top: -200px;
 }
-
 .d4{
-    background-color: blue;
+    border-style: none;
+    border-radius: 5px;
+    width:300px;
+    background-color: dodgerblue;
+    margin-left: 250px;
 }
 
 .d5{
-    background-color: aqua;
-    background-width: 100px;
+    border-style: none;
+    border-radius: 5px;
+    width:400px;
+    background-color: red;
+    margin-left: 700px;
+    margin-top: -100px;
+}
+
+.d6{
+    border-style: none;
+    border-radius: 5px;
+    width:300px;
+    background-color: dodgerblue;
+    margin-left: 250px;
+}
+
+.contact{
+    border-style: none;
+    border-radius: 5px;
+    width:300px;
+    background-color: red;
+    margin-left: 700px;
+    margin-top: -100px;
+
 }
