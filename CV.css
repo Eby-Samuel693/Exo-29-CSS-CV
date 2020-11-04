@@ -1,0 +1,42 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+
+#a1{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 1px;
+    width: 190px;
+    margin-top: -50px;
+}
+
+.contact{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    width: 250px;
+    margin-left: 500px;
+}
+.d1{
+    background-color: aqua;
+}
+
+.d2{
+    background-color: dodgerblue;
+}
+
+.d3{
+    background-color: aquamarine;
+}
+
+.d4{
+    background-color: blue;
+}
+
+.d5{
+    background-color: aqua;
+    background-width: 100px;
+}
