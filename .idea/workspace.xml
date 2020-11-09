@@ -70,7 +70,8 @@
       <workItem from="1604500726267" duration="2483000" />
       <workItem from="1604505413660" duration="125000" />
       <workItem from="1604506825807" duration="93000" />
-      <workItem from="1604562458975" duration="1237000" />
+      <workItem from="1604562458975" duration="1760000" />
+      <workItem from="1604934541300" duration="1594000" />
     </task>
     <task id="LOCAL-00001" summary="version 1">
       <created>1604494139894</created>
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604506899511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="version 2">
+      <created>1604563862445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604563862445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,9 +125,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="version 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604506903071">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604563868965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604506903071" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604563868965" />
   </component>
 </project>
